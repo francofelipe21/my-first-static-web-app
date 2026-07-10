@@ -17,7 +17,7 @@
         "patch"
       ],
       "allowedRoles": [
-        "[\"authenticated\"]"
+        "authenticated"
       ]
     }
   ]
